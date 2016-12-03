@@ -1,0 +1,1 @@
+export ANGULAR-KUPINAI_DATABASE_PASSWORD=password 
